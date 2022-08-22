@@ -25,7 +25,7 @@ you will need to have intalled pytorch, if you are missing anything use the pip 
 ## Quick note: 
 Idk why but when I pushed all of the stuff from my project to the github none of the stuff I actually made got over here some go over it here in the read me 
 
-##Right Before Training 
+## Right Before Training 
 Make sure when you open your folder (in powershell) and make sure that it has the 4 following parts labels.txt, test, train, and val 
  - if you dont have labels.txt type nano labels.txt and most likley your labels will be PNEUMONIA and NORMAL 
  - if you have any extra things type mv directory_name .. and it should move it out into the previous directory 
